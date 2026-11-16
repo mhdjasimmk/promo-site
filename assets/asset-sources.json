@@ -1,0 +1,100 @@
+{
+  "essenzi-logo.png": {
+    "source": "https://essenzi.com/images/logos/55/essenzi-logo.png",
+    "dimensions": [
+      500,
+      112
+    ],
+    "description": "Official Essenzi transparent black wordmark"
+  },
+  "jac-js3-hero.jpg": {
+    "source": "https://jacuae.com/en/wp-content/uploads/2025/06/banner-js3.jpg",
+    "dimensions": [
+      1200,
+      675
+    ],
+    "description": "Official JAC JS3 white exterior with near-white vignette"
+  },
+  "jac-js3-front.jpg": {
+    "source": "https://jacuae.com/en/wp-content/uploads/2025/06/1b.jpg",
+    "dimensions": [
+      1440,
+      960
+    ],
+    "description": "Official JAC JS3 white exterior on gray studio background"
+  },
+  "jac-js3-exterior.jpg": {
+    "source": "https://jacuae.com/en/wp-content/uploads/2025/06/exterior_01.jpg",
+    "dimensions": [
+      1440,
+      960
+    ],
+    "description": "Official JAC JS3 red exterior on gray studio background"
+  },
+  "win-a-car-preview.mp4": {
+    "source_asset": "jac-js3-exterior.jpg",
+    "source": "https://jacuae.com/en/wp-content/uploads/2025/06/exterior_01.jpg",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "duration_seconds": 12,
+    "description": "Silent slow-zoom loop derived from the existing official red JAC JS3 still for homepage layout preview; not actual driving footage. Replace with approved campaign video."
+  },
+  "loyalty-membership-card.png": {
+    "source": "User-supplied attachment: Essenzi golden membership card mockup-1.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "description": "User-provided Essenzi app mockup for the homepage loyalty scroll story; copied without image edits."
+  },
+  "loyalty-membership-tiers.png": {
+    "source": "User-supplied attachment: Essenzi Membership Tiers on iPhone-3.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "description": "User-provided Essenzi app mockup for the homepage loyalty scroll story; copied without image edits."
+  },
+  "loyalty-member-offers.png": {
+    "source": "User-supplied attachment: Essenzi Exclusive Offers iPhone Mockup-2.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "description": "User-provided Essenzi app mockup for the homepage loyalty scroll story; copied without image edits."
+  },
+  "hero-desktop.mp4": {
+    "source": "User-supplied attachment: 13190440_3840_2160_24fps.mp4",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "description": "User-supplied landscape motoring video, resized and compressed to silent H.264 with faststart. Full duration retained. Illustrative footage, not the prize vehicle."
+  },
+  "hero-desktop-poster.jpg": {
+    "source_asset": "hero-desktop.mp4",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "description": "Frame extracted from the corresponding optimized video as its responsive loading/reduced-motion poster."
+  },
+  "hero-mobile.mp4": {
+    "source": "User-supplied attachment: 12958998_2160_3840_30fps.mp4",
+    "dimensions": [
+      1000,
+      1200
+    ],
+    "description": "User-supplied portrait motoring video, resized and centre-cropped to exactly 1000x1200, compressed to silent H.264 with faststart. Full duration retained. Illustrative footage, not the prize vehicle."
+  },
+  "hero-mobile-poster.jpg": {
+    "source_asset": "hero-mobile.mp4",
+    "dimensions": [
+      1000,
+      1200
+    ],
+    "description": "Frame extracted from the corresponding optimized video as its responsive loading/reduced-motion poster."
+  }
+}
