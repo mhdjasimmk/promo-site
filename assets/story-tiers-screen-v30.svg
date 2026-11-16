@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="780" viewBox="0 0 390 780" role="img" aria-labelledby="screen-title"><title id="screen-title">Essenzi membership tiers — Gold 1,400 points and Platinum</title><defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fae6a5"/><stop offset=".35" stop-color="#ddba54"/><stop offset=".7" stop-color="#c99d34"/><stop offset="1" stop-color="#b88b25"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfbfc"/><stop offset=".48" stop-color="#e0e1e4"/><stop offset="1" stop-color="#c5c8cf"/></linearGradient>
+ <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#493e35"/><stop offset="1" stop-color="#b08c68"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d4f4f5"/><stop offset="1" stop-color="#38b5cc"/></linearGradient>
+ <linearGradient id="glass"><stop stop-color="#eabf77"/><stop offset=".3" stop-color="#fff2c7"/><stop offset=".7" stop-color="#cc8d43"/><stop offset="1" stop-color="#f0dcb2"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-15%" width="140%" height="145%"><feGaussianBlur in="SourceAlpha" stdDeviation="5"/><feOffset dy="5"/><feColorMatrix type="matrix" values="0 0 0 0 .5 0 0 0 0 .4 0 0 0 0 .14 0 0 0 .14 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <symbol id="crown" viewBox="0 0 24 24"><path d="m3 6 4 4 5-7 5 7 4-4-3 13H6L3 6Zm4 16h10"/></symbol>
+ <symbol id="home" viewBox="0 0 24 24"><path d="m3 11 9-8 9 8M5 10v11h14V10M9 21v-7h6v7"/></symbol>
+ <symbol id="gift" viewBox="0 0 24 24"><path d="M3 10h18v11H3zM2 6h20v4H2zM12 6v15M12 6C8-2 2 1 6 5l6 1Zm0 0c4-8 10-5 6-1l-6 1Z"/></symbol>
+ <symbol id="scan" viewBox="0 0 24 24"><path d="M3 8V3h5m8 0h5v5M3 16v5h5m8 0h5v-5M7 12h10"/></symbol>
+ <symbol id="store" viewBox="0 0 24 24"><path d="M4 9v12h16V9M2 9l2-6h16l2 6M2 9q2 4 5 0 2 4 5 0 2 4 5 0 3 4 5 0M9 21v-7h6v7"/></symbol>
+ <symbol id="user" viewBox="0 0 24 24"><circle cx="12" cy="7" r="4"/><path d="M4 22v-3a8 8 0 0 1 16 0v3"/></symbol>
+</defs><rect width="390" height="780" fill="#fff"/><g font-family="Arial,Helvetica,sans-serif" fill="#252622">
+ <circle cx="32" cy="30" r="16" fill="#f3e6b6"/><use xlink:href="#crown" x="21" y="18" width="22" height="22" fill="none" stroke="#aa862f" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="57" y="37" font-size="27" font-weight="700">Membership Tiers</text>
+ <text x="195" y="64" font-size="11" fill="#9d8e64" letter-spacing="1.3" text-anchor="middle">ESSENZI LOYALTY</text>
+ <rect x="21" y="85" width="348" height="205" rx="18" fill="url(#gold)" filter="url(#shadow)"/>
+ <text x="42" y="115" font-size="11" fill="#fff9e7" letter-spacing="1.1">CURRENT TIER</text>
+ <text x="42" y="155" font-size="33" fill="#fff" font-weight="700">GOLD</text>
+ <text x="42" y="198" font-size="37" fill="#fff" font-weight="700">1,400</text>
+ <g fill="#fff7dc" opacity=".28" font-family="Georgia,serif" font-style="italic"><text x="274" y="192" font-size="108" >S</text><text x="264" y="210" font-size="108" >S</text></g>
+ <rect x="42" y="218" width="304" height="7" rx="3.5" fill="#fff6d1" opacity=".4"/><rect x="42" y="218" width="282" height="7" rx="3.5" fill="#fff3c1"/>
+ <text x="42" y="262" font-size="11" fill="#fff8e4" letter-spacing=".5">GOLD MEMBERSHIP  →</text>
+ <text x="346" y="262" font-size="11" fill="#fff8e4" text-anchor="end">Since May 2024</text>
+ <rect x="21" y="315" width="348" height="205" rx="20" fill="url(#silver)" stroke="#e6e6e8" filter="url(#shadow)"/>
+ <path d="m239 500 36-46 23 17 43-78" stroke="#b4b8c0" opacity=".25" stroke-width="2" fill="none"/>
+ <circle cx="195" cy="357" r="25" fill="#f9fafb" stroke="#d0d2d8"/><use xlink:href="#crown" x="182" y="343" width="26" height="26" fill="none" stroke="#62666f" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="195" y="409" font-size="30" font-weight="700" text-anchor="middle" fill="#3d424c">Platinum</text>
+ <text x="195" y="432" font-size="10" letter-spacing="1" text-anchor="middle" fill="#6d7380">EXCLUSIVE MEMBER REWARDS</text>
+ <rect x="142" y="452" width="106" height="28" rx="14" fill="#f9fafb"/><text x="195" y="471" font-size="12" text-anchor="middle" font-weight="700" fill="#555b66">1,500+ PTS</text>
+ <text x="195" y="504" font-size="14" text-anchor="middle" fill="#5b606a">25% bonus points</text>
+ <circle cx="179" cy="542" r="3" fill="#d4d4ce"/><rect x="188" y="539" width="16" height="6" rx="3" fill="#c3a047"/><circle cx="213" cy="542" r="3" fill="#d4d4ce"/>
+ <rect x="72" y="566" width="246" height="39" rx="19.5" fill="url(#gold)"/>
+ <text x="195" y="591" font-size="14" fill="#fff" text-anchor="middle" font-weight="700" letter-spacing=".5">100 PTS TO PLATINUM</text>
+ <rect x="21" y="625" width="348" height="65" rx="13" fill="#fffdf8" stroke="#ddd2b2"/>
+ <text x="35" y="649" font-size="15" font-weight="700">More points. More privileges.</text>
+ <text x="35" y="674" font-size="13" fill="#7c7c71">Unlock exclusive member rewards.</text>
+ <g><rect x="16" y="714" width="358" height="56" rx="28" fill="#f5f0e3"/><use xlink:href="#home" x="47" y="730" width="24" height="24" fill="none" stroke="#a59473" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/><use xlink:href="#gift" x="114" y="730" width="24" height="24" fill="none" stroke="#282822" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/><circle cx="195" cy="742" r="28" fill="url(#gold)"/><use xlink:href="#scan" x="183" y="730" width="24" height="24" fill="none" stroke="#fff9e4" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/><use xlink:href="#store" x="251" y="730" width="24" height="24" fill="none" stroke="#a59473" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/><use xlink:href="#user" x="319" y="730" width="24" height="24" fill="none" stroke="#a59473" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"/></g>
+</g></svg>
